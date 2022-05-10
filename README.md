@@ -1,5 +1,6 @@
 # Bank-credict-card-project :credit_card: :bank: :euro:
 ## Classification case study
+![card](https://github.com/lado007/bank-credict-card-project/blob/main/README%20files/card.jpg)
 ### Objective - Building a model that will predict if a bank customer will accept a new credit card offer or not and provide insight into why some bank customers accept credit card offers and some do not
 
 ## Table of contents
