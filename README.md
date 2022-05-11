@@ -27,6 +27,6 @@ For the target variable (Offer accepted – Yes/No), it was also important to ch
 
 ## Applying best machine learning model :robot:
 After the first step of thoroughly understanding the data and taking the necessary steps to prepare the data for modeling before building exploratory or predictive models. The logistic regression for classification was used to build a model. other classification models like the KNN classifiers, decision trees was also used to compare accuracy.
-Further details such as the application of SMOTETomek, other classification model and the comparison of the their accuracy can be found in [jupyter notebook]
+Further details such as the application of SMOTETomek, other classification model and the comparison of the their accuracies can be found in [jupyter notebook](https://github.com/lado007/bank-credict-card-project/blob/main/codes/credict_card_project.ipynb)
 
 
