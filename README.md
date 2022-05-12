@@ -7,7 +7,7 @@
 - [project summary](https://github.com/lado007/bank-credict-card-project/edit/main/README.md#project-summary)
 - [data processing](https://github.com/lado007/bank-credict-card-project/edit/main/README.md#data-processing)
 - [applying best machine learning model](https://github.com/lado007/bank-credict-card-project/edit/main/README.md#applying-best-machine-learning-model)
-- [data queries]
+- [data queries](https://github.com/lado007/bank-credict-card-project/edit/main/README.md#data-queries)
 - data visualisation
 - insights
 
@@ -30,6 +30,11 @@ After the first step of thoroughly understanding the data and taking the necessa
 
 ## Data queries :question:
 In the scenerio of working as a risk analyst with a bank the senior management has also posted other questions that will help them better understand their customers.
-this queries can be found in the [sql workbench] 
+this queries can be found in the [sql workbench](https://github.com/lado007/bank-credict-card-project/blob/main/sql%20queries/sql%20queries%20for%20bank%20project.sql)
+
+## Data visualisation :bar_chart:
+For further visualisations please check out the Tableau workbook or the presentation done below.
+[Tableau]
+[Presentation]
 
 
