@@ -37,6 +37,7 @@ this queries can be found in the [sql workbench](https://github.com/lado007/bank
 For further visualisations please check out the Tableau workbook or the presentation done below.
 
 [Tableau](https://github.com/lado007/bank-credict-card-project/tree/main/tableau)
+
 [Presentation](https://slides.com/alfredjohn-1/bold#/1)
 
 ## Insights :bulb:
