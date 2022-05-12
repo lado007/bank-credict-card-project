@@ -8,8 +8,8 @@
 - [data processing](https://github.com/lado007/bank-credict-card-project/edit/main/README.md#data-processing)
 - [applying best machine learning model](https://github.com/lado007/bank-credict-card-project/edit/main/README.md#applying-best-machine-learning-model)
 - [data queries](https://github.com/lado007/bank-credict-card-project/edit/main/README.md#data-queries)
-- data visualisation
-- insights
+- [data visualisation](https://github.com/lado007/bank-credict-card-project/edit/main/README.md#data-visualisation)
+- [insights](https://github.com/lado007/bank-credict-card-project/edit/main/README.md#insights)
 
 ## Project summary 📖
 **Background**: working as a risk analyst with a bank. Apart from the other banking and loan services, the bank also provides credit card services which is a very important source of revenue for the bank. The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
@@ -26,7 +26,7 @@ The data also has a number of categorical and numerical variables, both variable
 For the target variable (Offer accepted – Yes/No), it was also important to check the data imbalance ie the number of people who responded with a yes vs the number of people who responded with a no and apply an efficient data imbalanace technique.
 
 ## Applying best machine learning model :robot:
-After the first step of thoroughly understanding the data and taking the necessary steps to prepare the data for modeling before building predictive models. The logistic regression for classification was used as a benchmark to build the predictive model without any data imbalance for the target model. Then we applied an imbalance technique of SMOTETomek. After the application of the data imbalance technique we then proceed again to rebuild the logistic regression and other classification models like the KNN classifiers, decision trees and we compared their accuracies. the comparison of the their accuracies and more details regarding the concepts of the ML models can be found in [jupyter notebook](https://github.com/lado007/bank-credict-card-project/blob/main/codes/credit_card_project.ipynb)
+After the first step of thoroughly understanding the data and taking the necessary steps to prepare the data for modeling before building predictive models. The logistic regression for classification was used as a benchmark to build the predictive model without any data imbalance for the target model. Then we applied an imbalance technique of SMOTETomek. After the application of the data imbalance technique we then proceed again to rebuild the logistic regression and other classification models like the KNN classifiers, decision trees and we compared their accuracies. the comparison of the their accuracies and more details regarding the concepts of the ML models and selection of the best model can be found in [jupyter notebook](https://github.com/lado007/bank-credict-card-project/blob/main/codes/credit_card_project.ipynb)
 
 ## Data queries :question:
 In the scenerio of working as a risk analyst with a bank the senior management has also posted other questions that will help them better understand their customers.
@@ -34,7 +34,15 @@ this queries can be found in the [sql workbench](https://github.com/lado007/bank
 
 ## Data visualisation :bar_chart:
 For further visualisations please check out the Tableau workbook or the presentation done below.
-[Tableau]
-[Presentation]
+
+[Tableau](https://github.com/lado007/bank-credict-card-project/tree/main/tableau)
+[Presentation](https://slides.com/alfredjohn-1/bold#/1)
+
+## Insights :bulb:
+The bank should;
+- offer new credit cards to clients who has a lower average balance at the 1st quater of the year.
+- make use more of postcard to mail or send offers.
+- make more offers if possible to those clients with low credit rating.
+- offer more Air miles reward programe with the new card.
 
 
