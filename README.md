@@ -1,5 +1,5 @@
 # Bank-credict-card-project :credit_card: :bank: :euro:
-![ironhack](https://github.com/lado007/bank-credict-card-project/blob/main/README%20files/logo-ironhack-blue.png)
+![ironhack](https://github.com/lado007/bank-credict-card-project/blob/main/README%20files/logosmall-ironhack-blue.png)
 ## Classification case study
 ![card](https://github.com/lado007/bank-credict-card-project/blob/main/README%20files/card.jpg)![yesno](https://github.com/lado007/bank-credict-card-project/blob/main/README%20files/ccyesorno.jpg)
 ### Objective - Building a model that will predict if a bank customer will accept a new credit card offer or not and provide insight into why some bank customers accept credit card offers and some do not
